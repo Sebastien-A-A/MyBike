@@ -211,11 +211,7 @@ h3{
     margin: 0;
   }
   .links{
-    color: black;
     margin: 0 5%;
-  }
-  .second-contact-text{
-    color: black;
   }
   .map-image{
     width: 50%;
@@ -232,5 +228,11 @@ h3{
   }
   .image-products-left{
     margin-top: 10%;
+  }
+  .second-contact-text{
+    color: black;
+  }
+  .links{
+    color:black;
   }
 }
