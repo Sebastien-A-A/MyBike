@@ -172,10 +172,10 @@ h3{
 @media(max-width:991px){
   .image-products-left, .image-products-right{
     padding: 0 5%;
-    margin-bottom: 15%;
+    margin-bottom: 13%;
   }
   .text-products-left{
-    margin-bottom: 10%;
+    margin-bottom: 15%;
   }
   .carousel-text{
     padding: 2% 20%;;
@@ -187,9 +187,7 @@ h3{
     text-align: center;
     margin: 10% 0;
   }
-  #whyUs-carousel{
-    margin: 5% 0;
-  }
+  /* Why Us */
   .third-pricing-column{
     margin-left: 18.8%;
   }
