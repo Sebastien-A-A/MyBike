@@ -63,11 +63,11 @@ h1{
 }
 
 .effect-right{
-  background-image: -webkit-linear-gradient(50deg, #FFF 50%, rgb(190,224,86) 50%);
+  background-image: -webkit-linear-gradient(50deg, #FFF 50%, rgb(185,222,73) 50%);
 }
 
 .effect-left{
-  background-image: -webkit-linear-gradient(50deg, rgb(190,224,86) 50%, #fff 50%);
+  background-image: -webkit-linear-gradient(50deg, rgb(185,222,73) 50%, #fff 50%);
 }
 
 .image-products-left{
