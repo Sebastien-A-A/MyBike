@@ -59,14 +59,15 @@ h1{
   padding: 1.5% 10%;
   font-family: 'Source Sans Pro', sans-serif;
   margin: auto;
+  text-align: justify;
 }
 
 .effect-right{
-  background-image: -webkit-linear-gradient(50deg, #FFF 50%, #8fb620 50%);
+  background-image: -webkit-linear-gradient(50deg, #FFF 50%, rgb(190,224,86) 50%);
 }
 
 .effect-left{
-  background-image: -webkit-linear-gradient(50deg, #8fb620 50%, #fff 50%);
+  background-image: -webkit-linear-gradient(50deg, rgb(190,224,86) 50%, #fff 50%);
 }
 
 .image-products-left{
@@ -89,6 +90,7 @@ h1{
 .header-carousel{
   padding: 3% 0;
   color: white;
+  font-size: 2.7rem;
 }
 
 .carousel-image{
@@ -132,7 +134,7 @@ h3{
 
 /* Reach Us */
 #reachUs{
-  background-image: -webkit-linear-gradient(30deg, #FFF 50%, rgb(124, 163, 67) 50%);
+  background-image: -webkit-linear-gradient(35deg, #FFF 50%, rgb(124, 163, 67) 50%);
   margin: 0% 5%;
   padding-bottom: 2%;
   text-align: center;
@@ -141,6 +143,7 @@ h3{
 .header-reachUs{
   color: white;
   padding: 2% 0;
+  font-size: 2.5rem;
 }
 
 .sub-header-reachUs{
@@ -173,9 +176,13 @@ h3{
   .navbar-brand{
     font-size: 3rem;
   }
-  .image-products-left, .image-products-right{
+  .image-products-right{
     padding: 0 5%;
     margin-bottom: 13%;
+  }
+  .image-products-left{
+    padding: 0 5%;
+    margin-bottom: 2%;
   }
   .text-products-left{
     margin-bottom: 17%;
@@ -233,6 +240,12 @@ h3{
     color: black;
   }
   .links{
-    color:black;
+    color: black;
+  }
+  .contact-text{
+    text-align: center;
+  }
+  .anchors{
+    text-align: center;
   }
 }
